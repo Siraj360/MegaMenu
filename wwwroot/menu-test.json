@@ -1,0 +1,567 @@
+﻿[
+    {
+        "TopLinkID": "6e89e858-257d-45e9-a8d7-55d4b6385552",
+        "Name": "Dashboard",
+        "RightOffset": "-200px",
+        "Icon": "fa-solid fa-tachometer-alt",
+        "Groups": [
+            {
+                "GroupID": "3edb308d-337d-42a7-a757-b288a952106e",
+                "Items": [
+                    {
+                        "ItemID": "89f5f138-4a8d-4acb-b169-60c74e228d24",
+                        "Type": "title",
+                        "Text": "Home Menu",
+                        "Url": "/",
+                        "Src": null,
+                        "Icon": "fa-solid fa-home",
+                        "Alt": null,
+                        "Class": "text-primary-emphasis"
+                    },
+                    {
+                        "ItemID": "58c99e6b-bb3f-436d-95fd-e4cf10e7217e",
+                        "Type": "separator",
+                        "Text": "",
+                        "Url": "",
+                        "Src": null,
+                        "Icon": "fa-solid fa-chart-line",
+                        "Alt": null,
+                        "Class": "text-primary-emphasis"
+                    },
+                    {
+                        "ItemID": "57c9a89e-50dc-4bbe-801e-b06421bee4ba",
+                        "Type": "link",
+                        "Text": "Home",
+                        "Url": "/",
+                        "Src": null,
+                        "Icon": "fa fa-house-chimney",
+                        "Alt": null,
+                        "Class": "text-primary-emphasis"
+                    },
+                    {
+                        "ItemID": "a9c48a53-6126-4b62-b85f-66e68cc8a237",
+                        "Type": "link",
+                        "Text": "About Us",
+                        "Url": "/about",
+                        "Src": null,
+                        "Icon": "fa-solid fa-user-clock",
+                        "Alt": null,
+                        "Class": "text-primary-emphasis"
+                    },
+                    {
+                        "ItemID": "82495b15-69a5-472b-929e-051f371abc73",
+                        "Type": "separator",
+                        "Text": null,
+                        "Url": null,
+                        "Src": null,
+                        "Icon": null,
+                        "Alt": null,
+                        "Class": "text-danger"
+                    },
+                    {
+                        "ItemID": "21f68965-c61e-4009-a0af-cfc57a586b10",
+                        "Type": "link",
+                        "Text": "Settings",
+                        "Url": "/settings",
+                        "Src": null,
+                        "Icon": "fa-solid fa-cog",
+                        "Alt": null,
+                        "Class": "bg-primary badge fs-6 fw-bold "
+                    }
+                ]
+            },
+            {
+                "GroupID": "b39f44b1-9dc6-4256-86cd-657a8c5aad7e",
+                "Items": [
+                    {
+                        "ItemID": "cac42cfb-0389-4694-877a-327345107af0",
+                        "Type": "title",
+                        "Text": "2nd Group Title",
+                        "Url": "/",
+                        "Src": null,
+                        "Icon": "fa-solid fa-house-user",
+                        "Alt": null,
+                        "Class": "text-secondary"
+                    },
+                    {
+                        "ItemID": "f573a7d5-adb9-41a4-8495-0771087c62f5",
+                        "Type": "separator",
+                        "Text": "Analytics",
+                        "Url": "/analytics",
+                        "Src": null,
+                        "Icon": "fa-solid fa-chart-pie",
+                        "Alt": null,
+                        "Class": "text-secondary"
+                    },
+                    {
+                        "ItemID": "4599c81f-668e-4119-8bba-8e8e3301f5b8",
+                        "Type": "link",
+                        "Text": "Reports",
+                        "Url": "/reports",
+                        "Src": null,
+                        "Icon": "fa-solid fa-folder-open",
+                        "Alt": null,
+                        "Class": "text-secondary"
+                    },
+                    {
+                        "ItemID": "e80ed6db-af32-472c-b142-d38733875ef6",
+                        "Type": "link",
+                        "Text": "User Activity",
+                        "Url": "/user-activity",
+                        "Src": null,
+                        "Icon": "fa-solid fa-users",
+                        "Alt": null,
+                        "Class": "text-secondary"
+                    },
+                    {
+                        "ItemID": "a05ed5eb-fa12-49fd-a1ae-b5343536814c",
+                        "Type": "separator",
+                        "Text": null,
+                        "Url": null,
+                        "Src": null,
+                        "Icon": null,
+                        "Alt": null,
+                        "Class": null
+                    },
+                    {
+                        "ItemID": "8488ac97-06a7-4778-b3a3-4436aa8e6a81",
+                        "Type": "link",
+                        "Text": "Demos",
+                        "Url": "/settings",
+                        "Src": null,
+                        "Icon": "fa-solid fa-wrench",
+                        "Alt": null,
+                        "Class": " bg-secondary badge fw-6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "TopLinkID": "5f739645-2d52-4794-94cf-78c4780cd3f1",
+        "Name": "Products",
+        "RightOffset": "-200px",
+        "Icon": "fa-solid fa-box",
+        "Groups": [
+            {
+                "GroupID": "8a0eac79-1be3-4327-8894-77c81e88d20d",
+                "Items": [
+                    {
+                        "ItemID": "e2e4fd01-36b9-401c-be4e-1fdc4ede8bd9",
+                        "Type": "title",
+                        "Text": "Core Product",
+                        "Url": null,
+                        "Src": null,
+                        "Icon": "fa-solid fa-box-open",
+                        "Alt": null,
+                        "Class": "text-warning-emphasis"
+                    },
+                    {
+                        "ItemID": "e383d72e-65fb-4463-b24a-fafd6467a88b",
+                        "Type": "link",
+                        "Text": "Overview",
+                        "Url": "/products/overview",
+                        "Src": null,
+                        "Icon": "fa-solid fa-info-circle",
+                        "Alt": null,
+                        "Class": "text-warning-emphasis"
+                    },
+                    {
+                        "ItemID": "d5dd7681-bab4-4628-920a-af15f094cde8",
+                        "Type": "link",
+                        "Text": "Pricing",
+                        "Url": "/products/pricing",
+                        "Src": null,
+                        "Icon": "fa-solid fa-dollar-sign",
+                        "Alt": null,
+                        "Class": "text-warning-emphasis"
+                    },
+                    {
+                        "ItemID": "34189a1e-65f4-4d28-85f8-02a1c22b6bf3",
+                        "Type": "link",
+                        "Text": "Updates",
+                        "Url": "/products/updates",
+                        "Src": null,
+                        "Icon": "fa-solid fa-sync-alt",
+                        "Alt": null,
+                        "Class": "text-warning-emphasis"
+                    },
+                    {
+                        "ItemID": "e9703677-02f7-494f-9c8a-bd931239da32",
+                        "Type": "separator",
+                        "Text": null,
+                        "Url": null,
+                        "Src": null,
+                        "Icon": null,
+                        "Alt": null,
+                        "Class": null
+                    },
+                    {
+                        "ItemID": "132e6ec9-fa9d-4917-819e-0dd90fa66977",
+                        "Type": "link",
+                        "Text": "FAQ",
+                        "Url": "/products/faq",
+                        "Src": null,
+                        "Icon": "fa-solid fa-question",
+                        "Alt": null,
+                        "Class": "text-warning fw-bold fs-6"
+                    }
+                ]
+            },
+            {
+                "GroupID": "cac4250b-db2d-4834-b537-1ea3e2025eb5",
+                "Items": [
+                    {
+                        "ItemID": "5287c90d-71d4-4734-85a6-b80d16aaf782",
+                        "Type": "title",
+                        "Text": "Extensions",
+                        "Url": null,
+                        "Src": null,
+                        "Icon": "fa-solid fa-puzzle-piece",
+                        "Alt": null,
+                        "Class": "text-info-emphasis"
+                    },
+                    {
+                        "ItemID": "9364aec4-0c16-4bdc-93cb-f717cf2c3284",
+                        "Type": "link",
+                        "Text": "Analytics",
+                        "Url": "/products/analytics",
+                        "Src": null,
+                        "Icon": "fa-solid fa-chart-bar",
+                        "Alt": null,
+                        "Class": "text-info-emphasis"
+                    },
+                    {
+                        "ItemID": "db23e492-fdb5-4d4c-96e3-1f595eddea5f",
+                        "Type": "link",
+                        "Text": "Automation",
+                        "Url": "/products/automation",
+                        "Src": null,
+                        "Icon": "fa-solid fa-robot",
+                        "Alt": null,
+                        "Class": "text-info-emphasis"
+                    },
+                    {
+                        "ItemID": "dac19824-d009-4ef2-b527-0f4052eb87fc",
+                        "Type": "link",
+                        "Text": "Integrations",
+                        "Url": "/products/integrations",
+                        "Src": null,
+                        "Icon": "fa-solid fa-plug",
+                        "Alt": null,
+                        "Class": "text-info-emphasis"
+                    }
+                ]
+            },
+            {
+                "GroupID": "86016537-9f3f-44da-88b2-6017b1883737",
+                "Items": [
+                    {
+                        "ItemID": "ee76a02b-33e9-4073-bf30-3258187bcee0",
+                        "Type": "title",
+                        "Text": "",
+                        "Url": null,
+                        "Src": "",
+                        "Icon": null,
+                        "Alt": "",
+                        "Class": ""
+                    },
+                    {
+                        "ItemID": "e74af7a3-171f-42d7-bfb6-cce5092031d6",
+                        "Type": "image",
+                        "Text": "New Link",
+                        "Url": null,
+                        "Src": "/img/product.png",
+                        "Icon": null,
+                        "Alt": "Product Preview",
+                        "Class": "me-2"
+                    },
+                    {
+                        "ItemID": "4249061e-8f9c-4e2e-bc78-5e4993ab9d5e",
+                        "Type": "separator",
+                        "Text": "New Link",
+                        "Url": null,
+                        "Src": null,
+                        "Icon": null,
+                        "Alt": null,
+                        "Class": null
+                    },
+                    {
+                        "ItemID": "fbbcd7a6-4212-4008-970d-36e5f3fe7b04",
+                        "Type": "title",
+                        "Text": "Contact US For Demo",
+                        "Url": null,
+                        "Src": null,
+                        "Icon": null,
+                        "Alt": null,
+                        "Class": "badge bg-info fw-bold fs-5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "TopLinkID": "8591b4ed-121d-4e6d-a715-4c9c3c61af44",
+        "Name": "Company",
+        "RightOffset": "-70px",
+        "Icon": "fa-solid fa-building",
+        "Groups": [
+            {
+                "GroupID": "709c1006-a9e0-4f82-aea9-a0256082d941",
+                "Items": [
+                    {
+                        "ItemID": "64db5ebf-2054-4a0a-8dab-ac89ca5badc2",
+                        "Type": "title",
+                        "Text": "Siraj360.Com",
+                        "Url": "",
+                        "Src": null,
+                        "Icon": "",
+                        "Alt": null,
+                        "Class": "text-success-emphasis"
+                    },
+                    {
+                        "ItemID": "ebe87a3c-0bbb-4c2f-a3d0-7a7bd0c6b936",
+                        "Type": "link",
+                        "Text": "About Us",
+                        "Url": "/about",
+                        "Src": null,
+                        "Icon": "fa-solid fa-id-badge",
+                        "Alt": null,
+                        "Class": "text-success-emphasis"
+                    },
+                    {
+                        "ItemID": "8bc1a353-f84f-46b4-a740-0158b250b539",
+                        "Type": "link",
+                        "Text": "Careers",
+                        "Url": "/careers",
+                        "Src": null,
+                        "Icon": "fa-solid fa-user-tie",
+                        "Alt": null,
+                        "Class": "text-success-emphasis"
+                    },
+                    {
+                        "ItemID": "273837f2-6306-4897-a694-8a419efe5ae3",
+                        "Type": "link",
+                        "Text": "News",
+                        "Url": "/news",
+                        "Src": "",
+                        "Icon": "fa-solid fa-newspaper",
+                        "Alt": "Our Team",
+                        "Class": "text-success-emphasis"
+                    },
+                    {
+                        "ItemID": "616bc27b-9f18-435a-99fa-31fb12f0ada9",
+                        "Type": "separator",
+                        "Text": "",
+                        "Url": "/img/avtar.png",
+                        "Src": "",
+                        "Icon": null,
+                        "Alt": "Our Team",
+                        "Class": null
+                    },
+                    {
+                        "ItemID": "d196a6a2-8c2a-48cd-a206-38b37361e750",
+                        "Type": "image",
+                        "Text": "New Link",
+                        "Url": null,
+                        "Src": "/img/about-us.png",
+                        "Icon": null,
+                        "Alt": null,
+                        "Class": "m-2"
+                    },
+                    {
+                        "ItemID": "ea957275-e703-4921-8c59-34da16624aa6",
+                        "Type": "title",
+                        "Text": "This is  a simple dropdown, that made with one group",
+                        "Url": null,
+                        "Src": null,
+                        "Icon": null,
+                        "Alt": null,
+                        "Class": "small text-center  text-dark mt-3 "
+                    },
+                    {
+                        "ItemID": "aed4b211-95a1-4ace-a569-3570406002a3",
+                        "Type": "separator",
+                        "Text": "",
+                        "Url": null,
+                        "Src": null,
+                        "Icon": null,
+                        "Alt": null,
+                        "Class": "text-center  text-dark"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "TopLinkID": "12735265-cb40-40d2-97a5-d8e998a6a035",
+        "Name": "Support",
+        "RightOffset": "-100px",
+        "Icon": "fa-solid fa-life-ring",
+        "Groups": [
+            {
+                "GroupID": "30317a9b-d132-4d6f-857b-579ad3d2ea53",
+                "Items": [
+                    {
+                        "ItemID": "a2af2dfe-c7c0-4026-a712-9efda6a0e0b7",
+                        "Type": "link",
+                        "Text": "Help Center",
+                        "Url": "/help",
+                        "Src": null,
+                        "Icon": "fa-solid fa-circle-question text-danger fw-bolder",
+                        "Alt": null,
+                        "Class": "text-danger-emphasis fw-bolder fs-4"
+                    },
+                    {
+                        "ItemID": "5f295736-5459-4f26-b435-1907ff18f19a",
+                        "Type": "link",
+                        "Text": "Contact Us",
+                        "Url": "/contact",
+                        "Src": null,
+                        "Icon": "fa-solid fa-envelope",
+                        "Alt": null,
+                        "Class": "text-danger-emphasis"
+                    },
+                    {
+                        "ItemID": "620438f7-ca85-4295-9159-e21049fd9d3a",
+                        "Type": "link",
+                        "Text": "Live Chat",
+                        "Url": "/live-chat",
+                        "Src": null,
+                        "Icon": "fa-solid fa-comments",
+                        "Alt": null,
+                        "Class": "text-danger-emphasis"
+                    }
+                ]
+            },
+            {
+                "GroupID": "eca40dd9-ebba-469f-9c69-cbc6241bc53c",
+                "Items": [
+                    {
+                        "ItemID": "4dd588a9-3b03-4b87-95af-ba63c44860a6",
+                        "Type": "title",
+                        "Text": "Resources",
+                        "Url": null,
+                        "Src": null,
+                        "Icon": "fa-solid fa-book",
+                        "Alt": null,
+                        "Class": "text-dark"
+                    },
+                    {
+                        "ItemID": "decbc9a4-573e-4923-8943-64d6cc3fc0bf",
+                        "Type": "link",
+                        "Text": "Docs",
+                        "Url": "/docs",
+                        "Src": null,
+                        "Icon": "fa-solid fa-book-open",
+                        "Alt": null,
+                        "Class": "text-dark"
+                    },
+                    {
+                        "ItemID": "18265b81-8b69-41b7-b333-f7d454297caf",
+                        "Type": "link",
+                        "Text": "Community",
+                        "Url": "/community",
+                        "Src": null,
+                        "Icon": "fa-solid fa-people-group",
+                        "Alt": null,
+                        "Class": "text-dark"
+                    },
+                    {
+                        "ItemID": "eb921364-5483-4dad-8395-ef09701c434f",
+                        "Type": "link",
+                        "Text": "Tutorials",
+                        "Url": "/tutorials",
+                        "Src": null,
+                        "Icon": "fa-solid fa-graduation-cap",
+                        "Alt": null,
+                        "Class": "text-dark"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "TopLinkID": "69ea7ee8-d25b-4b05-93a1-a624b5a7cd11",
+        "Name": "Extras",
+        "RightOffset": "5px",
+        "Icon": "fa-solid fa-star",
+        "Groups": [
+            {
+                "GroupID": "3d16d6c5-f0f0-416d-b52b-86853da96def",
+                "Items": [
+                    {
+                        "ItemID": "944cd51f-4528-4069-b375-92ca15be8870",
+                        "Type": "link",
+                        "Text": "Blog",
+                        "Url": "/blog",
+                        "Src": null,
+                        "Icon": "fa-solid fa-blog",
+                        "Alt": null,
+                        "Class": "text-warning-emphasis"
+                    },
+                    {
+                        "ItemID": "84411fd7-bfe7-4c44-859f-6dfc78360aab",
+                        "Type": "link",
+                        "Text": "Events",
+                        "Url": "/events",
+                        "Src": null,
+                        "Icon": "fa-solid fa-calendar-day",
+                        "Alt": null,
+                        "Class": "text-warning-emphasis"
+                    },
+                    {
+                        "ItemID": "c2f8ef20-5e57-4473-805e-1a29da3df9ff",
+                        "Type": "link",
+                        "Text": "Partners",
+                        "Url": "/partners",
+                        "Src": null,
+                        "Icon": "fa-solid fa-handshake",
+                        "Alt": null,
+                        "Class": "text-warning-emphasis"
+                    },
+                    {
+                        "ItemID": "b6fc7e1f-0f4c-456a-959f-3f45181ae5f1",
+                        "Type": "separator",
+                        "Text": null,
+                        "Url": null,
+                        "Src": null,
+                        "Icon": null,
+                        "Alt": null,
+                        "Class": null
+                    },
+                    {
+                        "ItemID": "4fe35f51-942f-4204-9adb-5d9890bafee5",
+                        "Type": "image",
+                        "Text": null,
+                        "Url": null,
+                        "Src": "/img/avtar.png",
+                        "Icon": null,
+                        "Alt": "Extras Preview",
+                        "Class": "img-fluid rounded-circle d-block mx-auto shadow m-2"
+                    },
+                    {
+                        "ItemID": "3a242f07-335a-4b0b-a348-4fc4caeb9770",
+                        "Type": "title",
+                        "Text": "Tell me what you think.",
+                        "Url": null,
+                        "Src": null,
+                        "Icon": null,
+                        "Alt": null,
+                        "Class": "text-warning-emphasis text-center mt-2"
+                    },
+                    {
+                        "ItemID": "e22a7c97-7ad6-4e5a-9f43-af4caa53f7c2",
+                        "Type": "link",
+                        "Text": "www.GadhiaSiraj.com",
+                        "Url": "http://www.GadhiaSiraj.com",
+                        "Src": null,
+                        "Icon": "fa-solid fa-square-up-right",
+                        "Alt": null,
+                        "Class": "fs-6 ms-4  fw-bold"
+                    }
+                ]
+            }
+        ]
+    }
+]

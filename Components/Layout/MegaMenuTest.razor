@@ -1,0 +1,200 @@
+﻿@* NavMegaMenu360.razor *@
+@inject HttpClient Http
+@inject NavigationManager NavManager
+
+
+<nav class="navbar navbar-expand fixed-top bg-navbar border-bottom shadow ps-3 pe-2 text-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand fs-3 lh-1 text-light" href="#">
+            <span class="lh-1 fw-bold font-shadow me-1"><i class="fa-solid fa-envelope-open-text"></i></span>
+            <span class="fw-bold font-shadow">Email 360</span>
+        </a>
+
+        <div class="collapse navbar-collapse" id="mainMenu">
+            <div class="navbar-nav me-auto mb-2 mb-lg-0">
+                <span class="ms-1 fs-5 lh-1 d-none d-lg-block">@Title</span>
+            </div>
+
+            <ul class="mega-menu-nav">
+                @foreach (var topLink in MenuLinks)
+                {
+                    var dropdownRightOffset = !string.IsNullOrWhiteSpace(topLink.RightOffset) ? topLink.RightOffset : "5px"; // fallback to 5px
+                    <li class="top-link-item">
+                        <a href="#" tabindex="0">
+                            <i class="@topLink.Icon"></i> @topLink.Name
+                        </a>
+                        <div class="dropdown mega-dropdown shadow" style="--dropdown-right-offset: @dropdownRightOffset;">
+                            <div class="dropdown-content m-3">
+                                @foreach (var group in topLink.Groups)
+                                {
+                                    var isImageGroup = group.Items.Any(i => i.Type?.ToLower() == "image");
+                                    <div class="dropdown-col @(isImageGroup ? "image-column" : "")">
+                                        @foreach (var item in group.Items)
+                                        {
+                                            @switch (item.Type?.ToLower())
+                                            {
+                                                case "title":
+                                                    <h5 class="dropdown-title @item.Class">
+                                                        @if (!string.IsNullOrWhiteSpace(item.Icon))
+                                                        {
+                                                            <i style="width:20px" class="me-2 @item.Icon"></i>
+                                                        }
+                                                        @item.Text
+                                                    </h5>
+                                                    break;
+                                                case "link":
+                                                    <span class="mb-2">
+                                                        <a href="@item.Url" target="_blank" class="fs-6 text-decoration-none cursor-pointer @item.Class">
+                                                            @if (!string.IsNullOrWhiteSpace(item.Icon))
+                                                            {
+                                                                <i style="width:20px" class="me-2 @item.Icon"></i>
+                                                            }
+                                                            @item.Text
+                                                        </a>
+                                                    </span>
+                                                    break;
+                                                case "separator":
+                                                    <hr class="dropdown-separator @(string.IsNullOrWhiteSpace(item.Class) ? "text-secondary" : item.Class)" />
+                                                    break;
+                                                case "image":
+                                                    <div class="mega-menu-image text-center">
+                                                        <img src="@item.Src"
+															 class="img-fluid d-block @(string.IsNullOrWhiteSpace(item.Class) ? "mx-auto shadow" : item.Class)"
+                                                             alt="@item.Alt" />
+                                                    </div>
+                                                    break;
+                                            }
+                                        }
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                    </li>
+                }
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+<style>
+    .bg-navbar {
+        background-color: #99e6ff;
+    }
+
+    .font-shadow {
+        color: white;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    }
+
+    .mega-menu-nav {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        background-color: transparent;
+        user-select: none;
+        position: relative;
+    }
+
+    .top-link-item {
+        position: relative;
+        padding: 0.5rem 1rem;
+    }
+
+        .top-link-item > a {
+            text-decoration: none;
+            color: #333;
+            font-weight: 500;
+        }
+
+    /* Dropdown container */
+    .mega-dropdown {
+        position: absolute;
+        top: 100%;
+        /* Use CSS var with fallback */
+        right: var(--dropdown-right-offset, 5px);
+        display: none;
+        background-color: #e6f9ff;
+        /* box-shadow: 0 8px 16px rgba(0,0,0,0.2); */
+        z-index: 9999;
+        min-width: 280px;
+        max-width: 95vw;
+        overflow: auto;
+        border-radius: 4px;
+    }
+
+    /* Show dropdown on hover or focus */
+    .top-link-item:hover > .mega-dropdown,
+    .top-link-item:focus-within > .mega-dropdown {
+        display: flex;
+        flex-wrap: nowrap;
+        padding: 1rem;
+        max-width: calc(100vw - 40px);
+        /* Remove manual left/right override here to use default right from var */
+        /* right: auto; */
+        /* left: auto; */
+    }
+
+    .dropdown-content {
+        display: flex;
+        flex-wrap: nowrap;
+        gap: 2rem;
+    }
+
+    .dropdown-col {
+        min-width: 260px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .dropdown-title {
+        font-weight: bold;
+        margin-bottom: 0.5rem;
+    }
+
+    .dropdown-link {
+        text-decoration: none;
+        /* color: #007bff; */
+        margin-bottom: 0.5rem;
+    }
+
+        .dropdown-link:hover {
+            text-decoration: underline;
+        }
+
+    .dropdown-separator {
+        margin: 0.5rem 0;
+        /* border-top: 1px solid #007399; */
+    }
+
+    .mega-menu-image img {
+        /* max-width: 100px; */
+        height: auto;
+        display: block;
+        margin-top: 0.5rem;
+    }
+
+    @@media (max-width: 768px) {
+        .dropdown-content {
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .mega-dropdown {
+            position: static;
+            width: 100%;
+            right: auto !important; /* Reset right offset on small screens */
+        }
+    }
+</style>
+
+
+
+@code {
+    [Parameter]
+    public string Title { get; set; } = "Welcome to Email360 App";
+
+    [Parameter]
+    public List<MegaMenuTopLink> MenuLinks { get; set; } = new();
+}

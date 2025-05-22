@@ -1,0 +1,2031 @@
+{
+  "Version": 1,
+  "Hash": "lFWTzEjmI52r9YsvAqW/8hV8YE/OP86tiOKuDPSc8sc=",
+  "Source": "MegaMenu360",
+  "BasePath": "_content/MegaMenu360",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MegaMenu360\\wwwroot",
+      "Source": "MegaMenu360",
+      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\",
+      "BasePath": "_content/MegaMenu360",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\kmf9wj7hq0-4kywy7iv6g.gz",
+      "SourceId": "MegaMenu360",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MegaMenu360",
+      "RelativePath": "app#[.{fingerprint=4kywy7iv6g}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2en0hznbof",
+      "Integrity": "asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\pi3p3auq81-ehdhxkme5y.gz",
+      "SourceId": "MegaMenu360",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MegaMenu360",
+      "RelativePath": "MegaMenu360#[.{fingerprint=ehdhxkme5y}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MegaMenu360.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "w4bwsyjuca",
+      "Integrity": "oOuz4inBfu6ntb7N6G6SGRC+GU1Y8nQ12yuKuwncQug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MegaMenu360.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\riq682ferm-h8mjzrwpud.gz",
+      "SourceId": "MegaMenu360",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MegaMenu360",
+      "RelativePath": "menu#[.{fingerprint=h8mjzrwpud}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "g7vy406bby",
+      "Integrity": "fHaJRQdWqYxC4VfVY38EZrPqDEjalvk5EbH4aInzxr4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu.json"
+    },
+    {
+      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\w06372nije-0wp9frisyg.gz",
+      "SourceId": "MegaMenu360",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MegaMenu360",
+      "RelativePath": "menu-test#[.{fingerprint=0wp9frisyg}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu-test.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "o9hcx4ue0o",
+      "Integrity": "lGyDsc9VpMeEM5qwFl42STIXj7K+lR8j/xHugnT0BhQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu-test.json"
+    },
+    {
+      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\wyh2s5ufdo-ehdhxkme5y.gz",
+      "SourceId": "MegaMenu360",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MegaMenu360",
+      "RelativePath": "MegaMenu360#[.{fingerprint=ehdhxkme5y}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MegaMenu360.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "w4bwsyjuca",
+      "Integrity": "oOuz4inBfu6ntb7N6G6SGRC+GU1Y8nQ12yuKuwncQug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MegaMenu360.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MegaMenu360.styles.css",
+      "SourceId": "MegaMenu360",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/MegaMenu360",
+      "RelativePath": "MegaMenu360#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "ehdhxkme5y",
+      "Integrity": "fjDBi7/a96rOrP3zfWrXJQSIzjIE1gXyhrk6ADz4Ns8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MegaMenu360.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MegaMenu360.bundle.scp.css",
+      "SourceId": "MegaMenu360",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/MegaMenu360",
+      "RelativePath": "MegaMenu360#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "ehdhxkme5y",
+      "Integrity": "fjDBi7/a96rOrP3zfWrXJQSIzjIE1gXyhrk6ADz4Ns8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MegaMenu360.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\app.css",
+      "SourceId": "MegaMenu360",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\",
+      "BasePath": "_content/MegaMenu360",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4kywy7iv6g",
+      "Integrity": "9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\about-us.png",
+      "SourceId": "MegaMenu360",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\",
+      "BasePath": "_content/MegaMenu360",
+      "RelativePath": "img/about-us#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifckyk77qw",
+      "Integrity": "7t2RGzVkJ1RlK6Io7sRz3bfgeFFfuKDJD91+D3nF4vA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\about-us.png"
+    },
+    {
+      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\avtar.png",
+      "SourceId": "MegaMenu360",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\",
+      "BasePath": "_content/MegaMenu360",
+      "RelativePath": "img/avtar#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gu41ocjwlz",
+      "Integrity": "yMbugEAzJtlYD5L7sAdRgc+mEwn7aKfoeLKGWexTn5k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\avtar.png"
+    },
+    {
+      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\product.png",
+      "SourceId": "MegaMenu360",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\",
+      "BasePath": "_content/MegaMenu360",
+      "RelativePath": "img/product#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ej73ipqm8h",
+      "Integrity": "FkHpqhWaZlHDpMKpZuDFFa0QhR8ShKOefTyMxfvwZXQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\product.png"
+    },
+    {
+      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu.json",
+      "SourceId": "MegaMenu360",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\",
+      "BasePath": "_content/MegaMenu360",
+      "RelativePath": "menu#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h8mjzrwpud",
+      "Integrity": "r3kpvOF5Z+LOn335/6PUjQayFMWaf/inFewblV4CwEs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\menu.json"
+    },
+    {
+      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu-test.json",
+      "SourceId": "MegaMenu360",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\",
+      "BasePath": "_content/MegaMenu360",
+      "RelativePath": "menu-test#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0wp9frisyg",
+      "Integrity": "UMYGme3TjxJwHvkYpvDTKa86I6CoHf7+nSlVrsHBD8I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\menu-test.json"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.4kywy7iv6g.css",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\kmf9wj7hq0-4kywy7iv6g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000742390497"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1346"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 20:41:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4kywy7iv6g"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30="
+        }
+      ]
+    },
+    {
+      "Route": "app.4kywy7iv6g.css",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 20:41:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4kywy7iv6g"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30="
+        }
+      ]
+    },
+    {
+      "Route": "app.4kywy7iv6g.css.gz",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\kmf9wj7hq0-4kywy7iv6g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 20:41:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4kywy7iv6g"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\kmf9wj7hq0-4kywy7iv6g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000742390497"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1346"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 20:41:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 20:41:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30="
+        }
+      ]
+    },
+    {
+      "Route": "app.css.gz",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\kmf9wj7hq0-4kywy7iv6g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 20:41:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU="
+        }
+      ]
+    },
+    {
+      "Route": "img/about-us.ifckyk77qw.png",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\about-us.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7t2RGzVkJ1RlK6Io7sRz3bfgeFFfuKDJD91+D3nF4vA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 21:09:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifckyk77qw"
+        },
+        {
+          "Name": "label",
+          "Value": "img/about-us.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7t2RGzVkJ1RlK6Io7sRz3bfgeFFfuKDJD91+D3nF4vA="
+        }
+      ]
+    },
+    {
+      "Route": "img/about-us.png",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\about-us.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7t2RGzVkJ1RlK6Io7sRz3bfgeFFfuKDJD91+D3nF4vA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 21:09:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7t2RGzVkJ1RlK6Io7sRz3bfgeFFfuKDJD91+D3nF4vA="
+        }
+      ]
+    },
+    {
+      "Route": "img/avtar.gu41ocjwlz.png",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\avtar.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yMbugEAzJtlYD5L7sAdRgc+mEwn7aKfoeLKGWexTn5k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 16:05:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gu41ocjwlz"
+        },
+        {
+          "Name": "label",
+          "Value": "img/avtar.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yMbugEAzJtlYD5L7sAdRgc+mEwn7aKfoeLKGWexTn5k="
+        }
+      ]
+    },
+    {
+      "Route": "img/avtar.png",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\avtar.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yMbugEAzJtlYD5L7sAdRgc+mEwn7aKfoeLKGWexTn5k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 16:05:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yMbugEAzJtlYD5L7sAdRgc+mEwn7aKfoeLKGWexTn5k="
+        }
+      ]
+    },
+    {
+      "Route": "img/product.ej73ipqm8h.png",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\product.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "308492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FkHpqhWaZlHDpMKpZuDFFa0QhR8ShKOefTyMxfvwZXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 21:23:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ej73ipqm8h"
+        },
+        {
+          "Name": "label",
+          "Value": "img/product.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FkHpqhWaZlHDpMKpZuDFFa0QhR8ShKOefTyMxfvwZXQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/product.png",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\product.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "308492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FkHpqhWaZlHDpMKpZuDFFa0QhR8ShKOefTyMxfvwZXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 21:23:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FkHpqhWaZlHDpMKpZuDFFa0QhR8ShKOefTyMxfvwZXQ="
+        }
+      ]
+    },
+    {
+      "Route": "MegaMenu360.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\pi3p3auq81-ehdhxkme5y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002747252747"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "363"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oOuz4inBfu6ntb7N6G6SGRC+GU1Y8nQ12yuKuwncQug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fjDBi7/a96rOrP3zfWrXJQSIzjIE1gXyhrk6ADz4Ns8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fjDBi7/a96rOrP3zfWrXJQSIzjIE1gXyhrk6ADz4Ns8="
+        }
+      ]
+    },
+    {
+      "Route": "MegaMenu360.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MegaMenu360.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fjDBi7/a96rOrP3zfWrXJQSIzjIE1gXyhrk6ADz4Ns8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fjDBi7/a96rOrP3zfWrXJQSIzjIE1gXyhrk6ADz4Ns8="
+        }
+      ]
+    },
+    {
+      "Route": "MegaMenu360.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\pi3p3auq81-ehdhxkme5y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oOuz4inBfu6ntb7N6G6SGRC+GU1Y8nQ12yuKuwncQug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oOuz4inBfu6ntb7N6G6SGRC+GU1Y8nQ12yuKuwncQug="
+        }
+      ]
+    },
+    {
+      "Route": "MegaMenu360.ehdhxkme5y.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\pi3p3auq81-ehdhxkme5y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002747252747"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "363"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oOuz4inBfu6ntb7N6G6SGRC+GU1Y8nQ12yuKuwncQug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fjDBi7/a96rOrP3zfWrXJQSIzjIE1gXyhrk6ADz4Ns8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ehdhxkme5y"
+        },
+        {
+          "Name": "label",
+          "Value": "MegaMenu360.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fjDBi7/a96rOrP3zfWrXJQSIzjIE1gXyhrk6ADz4Ns8="
+        }
+      ]
+    },
+    {
+      "Route": "MegaMenu360.ehdhxkme5y.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MegaMenu360.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fjDBi7/a96rOrP3zfWrXJQSIzjIE1gXyhrk6ADz4Ns8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ehdhxkme5y"
+        },
+        {
+          "Name": "label",
+          "Value": "MegaMenu360.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fjDBi7/a96rOrP3zfWrXJQSIzjIE1gXyhrk6ADz4Ns8="
+        }
+      ]
+    },
+    {
+      "Route": "MegaMenu360.ehdhxkme5y.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\pi3p3auq81-ehdhxkme5y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oOuz4inBfu6ntb7N6G6SGRC+GU1Y8nQ12yuKuwncQug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ehdhxkme5y"
+        },
+        {
+          "Name": "label",
+          "Value": "MegaMenu360.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oOuz4inBfu6ntb7N6G6SGRC+GU1Y8nQ12yuKuwncQug="
+        }
+      ]
+    },
+    {
+      "Route": "MegaMenu360.ehdhxkme5y.styles.css",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\wyh2s5ufdo-ehdhxkme5y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002747252747"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "363"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oOuz4inBfu6ntb7N6G6SGRC+GU1Y8nQ12yuKuwncQug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fjDBi7/a96rOrP3zfWrXJQSIzjIE1gXyhrk6ADz4Ns8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ehdhxkme5y"
+        },
+        {
+          "Name": "label",
+          "Value": "MegaMenu360.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fjDBi7/a96rOrP3zfWrXJQSIzjIE1gXyhrk6ADz4Ns8="
+        }
+      ]
+    },
+    {
+      "Route": "MegaMenu360.ehdhxkme5y.styles.css",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MegaMenu360.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fjDBi7/a96rOrP3zfWrXJQSIzjIE1gXyhrk6ADz4Ns8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ehdhxkme5y"
+        },
+        {
+          "Name": "label",
+          "Value": "MegaMenu360.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fjDBi7/a96rOrP3zfWrXJQSIzjIE1gXyhrk6ADz4Ns8="
+        }
+      ]
+    },
+    {
+      "Route": "MegaMenu360.ehdhxkme5y.styles.css.gz",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\wyh2s5ufdo-ehdhxkme5y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oOuz4inBfu6ntb7N6G6SGRC+GU1Y8nQ12yuKuwncQug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ehdhxkme5y"
+        },
+        {
+          "Name": "label",
+          "Value": "MegaMenu360.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oOuz4inBfu6ntb7N6G6SGRC+GU1Y8nQ12yuKuwncQug="
+        }
+      ]
+    },
+    {
+      "Route": "MegaMenu360.styles.css",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\wyh2s5ufdo-ehdhxkme5y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002747252747"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "363"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oOuz4inBfu6ntb7N6G6SGRC+GU1Y8nQ12yuKuwncQug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fjDBi7/a96rOrP3zfWrXJQSIzjIE1gXyhrk6ADz4Ns8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fjDBi7/a96rOrP3zfWrXJQSIzjIE1gXyhrk6ADz4Ns8="
+        }
+      ]
+    },
+    {
+      "Route": "MegaMenu360.styles.css",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MegaMenu360.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fjDBi7/a96rOrP3zfWrXJQSIzjIE1gXyhrk6ADz4Ns8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fjDBi7/a96rOrP3zfWrXJQSIzjIE1gXyhrk6ADz4Ns8="
+        }
+      ]
+    },
+    {
+      "Route": "MegaMenu360.styles.css.gz",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\wyh2s5ufdo-ehdhxkme5y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oOuz4inBfu6ntb7N6G6SGRC+GU1Y8nQ12yuKuwncQug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oOuz4inBfu6ntb7N6G6SGRC+GU1Y8nQ12yuKuwncQug="
+        }
+      ]
+    },
+    {
+      "Route": "menu.h8mjzrwpud.json",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\riq682ferm-h8mjzrwpud.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000310462589"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3220"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fHaJRQdWqYxC4VfVY38EZrPqDEjalvk5EbH4aInzxr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 21:43:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"r3kpvOF5Z+LOn335/6PUjQayFMWaf/inFewblV4CwEs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h8mjzrwpud"
+        },
+        {
+          "Name": "label",
+          "Value": "menu.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r3kpvOF5Z+LOn335/6PUjQayFMWaf/inFewblV4CwEs="
+        }
+      ]
+    },
+    {
+      "Route": "menu.h8mjzrwpud.json",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r3kpvOF5Z+LOn335/6PUjQayFMWaf/inFewblV4CwEs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 21:43:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h8mjzrwpud"
+        },
+        {
+          "Name": "label",
+          "Value": "menu.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r3kpvOF5Z+LOn335/6PUjQayFMWaf/inFewblV4CwEs="
+        }
+      ]
+    },
+    {
+      "Route": "menu.h8mjzrwpud.json.gz",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\riq682ferm-h8mjzrwpud.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fHaJRQdWqYxC4VfVY38EZrPqDEjalvk5EbH4aInzxr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 21:43:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h8mjzrwpud"
+        },
+        {
+          "Name": "label",
+          "Value": "menu.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fHaJRQdWqYxC4VfVY38EZrPqDEjalvk5EbH4aInzxr4="
+        }
+      ]
+    },
+    {
+      "Route": "menu.json",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\riq682ferm-h8mjzrwpud.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000310462589"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3220"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fHaJRQdWqYxC4VfVY38EZrPqDEjalvk5EbH4aInzxr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 21:43:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"r3kpvOF5Z+LOn335/6PUjQayFMWaf/inFewblV4CwEs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r3kpvOF5Z+LOn335/6PUjQayFMWaf/inFewblV4CwEs="
+        }
+      ]
+    },
+    {
+      "Route": "menu.json",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r3kpvOF5Z+LOn335/6PUjQayFMWaf/inFewblV4CwEs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 21:43:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r3kpvOF5Z+LOn335/6PUjQayFMWaf/inFewblV4CwEs="
+        }
+      ]
+    },
+    {
+      "Route": "menu.json.gz",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\riq682ferm-h8mjzrwpud.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fHaJRQdWqYxC4VfVY38EZrPqDEjalvk5EbH4aInzxr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 21:43:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fHaJRQdWqYxC4VfVY38EZrPqDEjalvk5EbH4aInzxr4="
+        }
+      ]
+    },
+    {
+      "Route": "menu-test.0wp9frisyg.json",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\w06372nije-0wp9frisyg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000315556958"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3168"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lGyDsc9VpMeEM5qwFl42STIXj7K+lR8j/xHugnT0BhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 21:43:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UMYGme3TjxJwHvkYpvDTKa86I6CoHf7+nSlVrsHBD8I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0wp9frisyg"
+        },
+        {
+          "Name": "label",
+          "Value": "menu-test.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UMYGme3TjxJwHvkYpvDTKa86I6CoHf7+nSlVrsHBD8I="
+        }
+      ]
+    },
+    {
+      "Route": "menu-test.0wp9frisyg.json",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu-test.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UMYGme3TjxJwHvkYpvDTKa86I6CoHf7+nSlVrsHBD8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 21:43:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0wp9frisyg"
+        },
+        {
+          "Name": "label",
+          "Value": "menu-test.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UMYGme3TjxJwHvkYpvDTKa86I6CoHf7+nSlVrsHBD8I="
+        }
+      ]
+    },
+    {
+      "Route": "menu-test.0wp9frisyg.json.gz",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\w06372nije-0wp9frisyg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lGyDsc9VpMeEM5qwFl42STIXj7K+lR8j/xHugnT0BhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 21:43:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0wp9frisyg"
+        },
+        {
+          "Name": "label",
+          "Value": "menu-test.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lGyDsc9VpMeEM5qwFl42STIXj7K+lR8j/xHugnT0BhQ="
+        }
+      ]
+    },
+    {
+      "Route": "menu-test.json",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\w06372nije-0wp9frisyg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000315556958"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3168"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lGyDsc9VpMeEM5qwFl42STIXj7K+lR8j/xHugnT0BhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 21:43:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UMYGme3TjxJwHvkYpvDTKa86I6CoHf7+nSlVrsHBD8I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UMYGme3TjxJwHvkYpvDTKa86I6CoHf7+nSlVrsHBD8I="
+        }
+      ]
+    },
+    {
+      "Route": "menu-test.json",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu-test.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UMYGme3TjxJwHvkYpvDTKa86I6CoHf7+nSlVrsHBD8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 21:43:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UMYGme3TjxJwHvkYpvDTKa86I6CoHf7+nSlVrsHBD8I="
+        }
+      ]
+    },
+    {
+      "Route": "menu-test.json.gz",
+      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\w06372nije-0wp9frisyg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lGyDsc9VpMeEM5qwFl42STIXj7K+lR8j/xHugnT0BhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 21:43:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lGyDsc9VpMeEM5qwFl42STIXj7K+lR8j/xHugnT0BhQ="
+        }
+      ]
+    }
+  ]
+}
