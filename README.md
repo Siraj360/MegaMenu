@@ -8,7 +8,7 @@ In this project, we build a dynamic, data-driven Mega Menu in a Blazor Server ap
 
 ![Mega Menu Screenshot](https://github.com/Siraj360/MegaMenu/blob/main/wwwroot/img/Screen.gif)
 
----
+
 
 ### A bolg on theis project
 
