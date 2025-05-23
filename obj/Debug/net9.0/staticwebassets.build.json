@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lFWTzEjmI52r9YsvAqW/8hV8YE/OP86tiOKuDPSc8sc=",
+  "Hash": "/PgCG7wq77psNsiC1qTE5F+kRr8r9GCWefJH22WJWFo=",
   "Source": "MegaMenu360",
   "BasePath": "_content/MegaMenu360",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MegaMenu360\\wwwroot",
       "Source": "MegaMenu360",
-      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\",
       "BasePath": "_content/MegaMenu360",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\kmf9wj7hq0-4kywy7iv6g.gz",
+      "Identity": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\kmf9wj7hq0-4kywy7iv6g.gz",
       "SourceId": "MegaMenu360",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MegaMenu360",
       "RelativePath": "app#[.{fingerprint=4kywy7iv6g}]?.css.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\app.css",
+      "RelatedAsset": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "2en0hznbof",
       "Integrity": "asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\app.css"
+      "OriginalItemSpec": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\pi3p3auq81-ehdhxkme5y.gz",
+      "Identity": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\pi3p3auq81-ehdhxkme5y.gz",
       "SourceId": "MegaMenu360",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MegaMenu360",
       "RelativePath": "MegaMenu360#[.{fingerprint=ehdhxkme5y}]!.bundle.scp.css.gz",
       "AssetKind": "All",
@@ -49,62 +49,62 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MegaMenu360.bundle.scp.css",
+      "RelatedAsset": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MegaMenu360.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "w4bwsyjuca",
       "Integrity": "oOuz4inBfu6ntb7N6G6SGRC+GU1Y8nQ12yuKuwncQug=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MegaMenu360.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MegaMenu360.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\riq682ferm-h8mjzrwpud.gz",
+      "Identity": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\riq682ferm-p2eeg17qor.gz",
       "SourceId": "MegaMenu360",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MegaMenu360",
-      "RelativePath": "menu#[.{fingerprint=h8mjzrwpud}]?.json.gz",
+      "RelativePath": "menu#[.{fingerprint=p2eeg17qor}]?.json.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu.json",
+      "RelatedAsset": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\menu.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "g7vy406bby",
-      "Integrity": "fHaJRQdWqYxC4VfVY38EZrPqDEjalvk5EbH4aInzxr4=",
+      "Fingerprint": "j4ha2dtdo1",
+      "Integrity": "zeRgMdfNLvauak1wflHckswy6VkFCDsWBi4tdNkKoOo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu.json"
+      "OriginalItemSpec": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\menu.json"
     },
     {
-      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\w06372nije-0wp9frisyg.gz",
+      "Identity": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\w06372nije-s6loio7rbq.gz",
       "SourceId": "MegaMenu360",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MegaMenu360",
-      "RelativePath": "menu-test#[.{fingerprint=0wp9frisyg}]?.json.gz",
+      "RelativePath": "menu-test#[.{fingerprint=s6loio7rbq}]?.json.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu-test.json",
+      "RelatedAsset": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\menu-test.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "o9hcx4ue0o",
-      "Integrity": "lGyDsc9VpMeEM5qwFl42STIXj7K+lR8j/xHugnT0BhQ=",
+      "Fingerprint": "x9h9h1hbm9",
+      "Integrity": "teT7WvfHORhzKYgIdtuhtQKg/25MUdj26djFEQNG2qQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu-test.json"
+      "OriginalItemSpec": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\menu-test.json"
     },
     {
-      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\wyh2s5ufdo-ehdhxkme5y.gz",
+      "Identity": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\wyh2s5ufdo-ehdhxkme5y.gz",
       "SourceId": "MegaMenu360",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MegaMenu360",
       "RelativePath": "MegaMenu360#[.{fingerprint=ehdhxkme5y}]?.styles.css.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MegaMenu360.styles.css",
+      "RelatedAsset": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MegaMenu360.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "w4bwsyjuca",
       "Integrity": "oOuz4inBfu6ntb7N6G6SGRC+GU1Y8nQ12yuKuwncQug=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MegaMenu360.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MegaMenu360.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MegaMenu360.styles.css",
+      "Identity": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MegaMenu360.styles.css",
       "SourceId": "MegaMenu360",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MegaMenu360",
       "RelativePath": "MegaMenu360#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -140,13 +140,13 @@
       "Integrity": "fjDBi7/a96rOrP3zfWrXJQSIzjIE1gXyhrk6ADz4Ns8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MegaMenu360.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MegaMenu360.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MegaMenu360.bundle.scp.css",
+      "Identity": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MegaMenu360.bundle.scp.css",
       "SourceId": "MegaMenu360",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MegaMenu360",
       "RelativePath": "MegaMenu360#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -161,13 +161,13 @@
       "Integrity": "fjDBi7/a96rOrP3zfWrXJQSIzjIE1gXyhrk6ADz4Ns8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MegaMenu360.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MegaMenu360.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\app.css",
       "SourceId": "MegaMenu360",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\",
       "BasePath": "_content/MegaMenu360",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\about-us.png",
+      "Identity": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\img\\about-us.png",
       "SourceId": "MegaMenu360",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\",
       "BasePath": "_content/MegaMenu360",
       "RelativePath": "img/about-us#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about-us.png"
     },
     {
-      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\avtar.png",
+      "Identity": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\img\\avtar.png",
       "SourceId": "MegaMenu360",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\",
       "BasePath": "_content/MegaMenu360",
       "RelativePath": "img/avtar#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\img\\avtar.png"
     },
     {
-      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\product.png",
+      "Identity": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\img\\product.png",
       "SourceId": "MegaMenu360",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\",
       "BasePath": "_content/MegaMenu360",
       "RelativePath": "img/product#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product.png"
     },
     {
-      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu.json",
+      "Identity": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\menu.json",
       "SourceId": "MegaMenu360",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\",
       "BasePath": "_content/MegaMenu360",
       "RelativePath": "menu#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -262,17 +262,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "h8mjzrwpud",
-      "Integrity": "r3kpvOF5Z+LOn335/6PUjQayFMWaf/inFewblV4CwEs=",
+      "Fingerprint": "p2eeg17qor",
+      "Integrity": "weKersYKTNAtrTznprtG4iUY79NAVnXiRdpPQuWflKA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\menu.json"
     },
     {
-      "Identity": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu-test.json",
+      "Identity": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\menu-test.json",
       "SourceId": "MegaMenu360",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\",
       "BasePath": "_content/MegaMenu360",
       "RelativePath": "menu-test#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -283,8 +283,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "0wp9frisyg",
-      "Integrity": "UMYGme3TjxJwHvkYpvDTKa86I6CoHf7+nSlVrsHBD8I=",
+      "Fingerprint": "s6loio7rbq",
+      "Integrity": "vJxklVYfpsnAGeHEw8lDZCNXnCNkjl1zHmi4pHb91Cc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\menu-test.json"
@@ -293,7 +293,7 @@
   "Endpoints": [
     {
       "Route": "app.4kywy7iv6g.css",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\kmf9wj7hq0-4kywy7iv6g.gz",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\kmf9wj7hq0-4kywy7iv6g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -356,7 +356,7 @@
     },
     {
       "Route": "app.4kywy7iv6g.css",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -401,7 +401,7 @@
     },
     {
       "Route": "app.4kywy7iv6g.css.gz",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\kmf9wj7hq0-4kywy7iv6g.gz",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\kmf9wj7hq0-4kywy7iv6g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -454,7 +454,7 @@
     },
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\kmf9wj7hq0-4kywy7iv6g.gz",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\kmf9wj7hq0-4kywy7iv6g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -509,7 +509,7 @@
     },
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -546,7 +546,7 @@
     },
     {
       "Route": "app.css.gz",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\kmf9wj7hq0-4kywy7iv6g.gz",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\kmf9wj7hq0-4kywy7iv6g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -591,7 +591,7 @@
     },
     {
       "Route": "img/about-us.ifckyk77qw.png",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\about-us.png",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\img\\about-us.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -636,7 +636,7 @@
     },
     {
       "Route": "img/about-us.png",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\about-us.png",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\img\\about-us.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -673,7 +673,7 @@
     },
     {
       "Route": "img/avtar.gu41ocjwlz.png",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\avtar.png",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\img\\avtar.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -718,7 +718,7 @@
     },
     {
       "Route": "img/avtar.png",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\avtar.png",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\img\\avtar.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -755,7 +755,7 @@
     },
     {
       "Route": "img/product.ej73ipqm8h.png",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\product.png",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\img\\product.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -800,7 +800,7 @@
     },
     {
       "Route": "img/product.png",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\product.png",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\img\\product.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -837,7 +837,7 @@
     },
     {
       "Route": "MegaMenu360.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\pi3p3auq81-ehdhxkme5y.gz",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\pi3p3auq81-ehdhxkme5y.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -892,7 +892,7 @@
     },
     {
       "Route": "MegaMenu360.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MegaMenu360.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MegaMenu360.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -929,7 +929,7 @@
     },
     {
       "Route": "MegaMenu360.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\pi3p3auq81-ehdhxkme5y.gz",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\pi3p3auq81-ehdhxkme5y.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -974,7 +974,7 @@
     },
     {
       "Route": "MegaMenu360.ehdhxkme5y.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\pi3p3auq81-ehdhxkme5y.gz",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\pi3p3auq81-ehdhxkme5y.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1037,7 +1037,7 @@
     },
     {
       "Route": "MegaMenu360.ehdhxkme5y.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MegaMenu360.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MegaMenu360.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1082,7 +1082,7 @@
     },
     {
       "Route": "MegaMenu360.ehdhxkme5y.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\pi3p3auq81-ehdhxkme5y.gz",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\pi3p3auq81-ehdhxkme5y.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1135,7 +1135,7 @@
     },
     {
       "Route": "MegaMenu360.ehdhxkme5y.styles.css",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\wyh2s5ufdo-ehdhxkme5y.gz",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\wyh2s5ufdo-ehdhxkme5y.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1198,7 +1198,7 @@
     },
     {
       "Route": "MegaMenu360.ehdhxkme5y.styles.css",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MegaMenu360.styles.css",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MegaMenu360.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1243,7 +1243,7 @@
     },
     {
       "Route": "MegaMenu360.ehdhxkme5y.styles.css.gz",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\wyh2s5ufdo-ehdhxkme5y.gz",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\wyh2s5ufdo-ehdhxkme5y.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1296,7 +1296,7 @@
     },
     {
       "Route": "MegaMenu360.styles.css",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\wyh2s5ufdo-ehdhxkme5y.gz",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\wyh2s5ufdo-ehdhxkme5y.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1351,7 +1351,7 @@
     },
     {
       "Route": "MegaMenu360.styles.css",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MegaMenu360.styles.css",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MegaMenu360.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1388,7 +1388,7 @@
     },
     {
       "Route": "MegaMenu360.styles.css.gz",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\wyh2s5ufdo-ehdhxkme5y.gz",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\wyh2s5ufdo-ehdhxkme5y.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1432,13 +1432,13 @@
       ]
     },
     {
-      "Route": "menu.h8mjzrwpud.json",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\riq682ferm-h8mjzrwpud.gz",
+      "Route": "menu.json",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\riq682ferm-p2eeg17qor.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000310462589"
+          "Quality": "0.000310077519"
         }
       ],
       "ResponseHeaders": [
@@ -1448,15 +1448,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3220"
+          "Value": "3224"
         },
         {
           "Name": "ETag",
-          "Value": "\"fHaJRQdWqYxC4VfVY38EZrPqDEjalvk5EbH4aInzxr4=\""
+          "Value": "\"zeRgMdfNLvauak1wflHckswy6VkFCDsWBi4tdNkKoOo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 22 May 2025 21:43:46 GMT"
+          "Value": "Thu, 22 May 2025 21:49:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"weKersYKTNAtrTznprtG4iUY79NAVnXiRdpPQuWflKA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-weKersYKTNAtrTznprtG4iUY79NAVnXiRdpPQuWflKA="
+        }
+      ]
+    },
+    {
+      "Route": "menu.json",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\menu.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23355"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"weKersYKTNAtrTznprtG4iUY79NAVnXiRdpPQuWflKA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 21:49:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-weKersYKTNAtrTznprtG4iUY79NAVnXiRdpPQuWflKA="
+        }
+      ]
+    },
+    {
+      "Route": "menu.json.gz",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\riq682ferm-p2eeg17qor.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zeRgMdfNLvauak1wflHckswy6VkFCDsWBi4tdNkKoOo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 21:49:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zeRgMdfNLvauak1wflHckswy6VkFCDsWBi4tdNkKoOo="
+        }
+      ]
+    },
+    {
+      "Route": "menu.p2eeg17qor.json",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\riq682ferm-p2eeg17qor.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000310077519"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3224"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zeRgMdfNLvauak1wflHckswy6VkFCDsWBi4tdNkKoOo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 21:49:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1476,13 +1613,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"r3kpvOF5Z+LOn335/6PUjQayFMWaf/inFewblV4CwEs=\""
+          "Value": "W/\"weKersYKTNAtrTznprtG4iUY79NAVnXiRdpPQuWflKA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "h8mjzrwpud"
+          "Value": "p2eeg17qor"
         },
         {
           "Name": "label",
@@ -1490,13 +1627,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-r3kpvOF5Z+LOn335/6PUjQayFMWaf/inFewblV4CwEs="
+          "Value": "sha256-weKersYKTNAtrTznprtG4iUY79NAVnXiRdpPQuWflKA="
         }
       ]
     },
     {
-      "Route": "menu.h8mjzrwpud.json",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu.json",
+      "Route": "menu.p2eeg17qor.json",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\menu.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1505,7 +1642,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23354"
+          "Value": "23355"
         },
         {
           "Name": "Content-Type",
@@ -1513,11 +1650,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"r3kpvOF5Z+LOn335/6PUjQayFMWaf/inFewblV4CwEs=\""
+          "Value": "\"weKersYKTNAtrTznprtG4iUY79NAVnXiRdpPQuWflKA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 22 May 2025 21:43:46 GMT"
+          "Value": "Thu, 22 May 2025 21:49:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1527,7 +1664,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "h8mjzrwpud"
+          "Value": "p2eeg17qor"
         },
         {
           "Name": "label",
@@ -1535,13 +1672,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-r3kpvOF5Z+LOn335/6PUjQayFMWaf/inFewblV4CwEs="
+          "Value": "sha256-weKersYKTNAtrTznprtG4iUY79NAVnXiRdpPQuWflKA="
         }
       ]
     },
     {
-      "Route": "menu.h8mjzrwpud.json.gz",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\riq682ferm-h8mjzrwpud.gz",
+      "Route": "menu.p2eeg17qor.json.gz",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\riq682ferm-p2eeg17qor.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1550,7 +1687,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3220"
+          "Value": "3224"
         },
         {
           "Name": "Content-Type",
@@ -1558,11 +1695,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fHaJRQdWqYxC4VfVY38EZrPqDEjalvk5EbH4aInzxr4=\""
+          "Value": "\"zeRgMdfNLvauak1wflHckswy6VkFCDsWBi4tdNkKoOo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 22 May 2025 21:43:46 GMT"
+          "Value": "Thu, 22 May 2025 21:49:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1580,7 +1717,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "h8mjzrwpud"
+          "Value": "p2eeg17qor"
         },
         {
           "Name": "label",
@@ -1588,18 +1725,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fHaJRQdWqYxC4VfVY38EZrPqDEjalvk5EbH4aInzxr4="
+          "Value": "sha256-zeRgMdfNLvauak1wflHckswy6VkFCDsWBi4tdNkKoOo="
         }
       ]
     },
     {
-      "Route": "menu.json",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\riq682ferm-h8mjzrwpud.gz",
+      "Route": "menu-test.json",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\w06372nije-s6loio7rbq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000310462589"
+          "Quality": "0.000309119011"
         }
       ],
       "ResponseHeaders": [
@@ -1609,15 +1746,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3220"
+          "Value": "3234"
         },
         {
           "Name": "ETag",
-          "Value": "\"fHaJRQdWqYxC4VfVY38EZrPqDEjalvk5EbH4aInzxr4=\""
+          "Value": "\"teT7WvfHORhzKYgIdtuhtQKg/25MUdj26djFEQNG2qQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 22 May 2025 21:43:46 GMT"
+          "Value": "Thu, 22 May 2025 21:50:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1637,19 +1774,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"r3kpvOF5Z+LOn335/6PUjQayFMWaf/inFewblV4CwEs=\""
+          "Value": "W/\"vJxklVYfpsnAGeHEw8lDZCNXnCNkjl1zHmi4pHb91Cc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-r3kpvOF5Z+LOn335/6PUjQayFMWaf/inFewblV4CwEs="
+          "Value": "sha256-vJxklVYfpsnAGeHEw8lDZCNXnCNkjl1zHmi4pHb91Cc="
         }
       ]
     },
     {
-      "Route": "menu.json",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu.json",
+      "Route": "menu-test.json",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\menu-test.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1658,7 +1795,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23354"
+          "Value": "23358"
         },
         {
           "Name": "Content-Type",
@@ -1666,11 +1803,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"r3kpvOF5Z+LOn335/6PUjQayFMWaf/inFewblV4CwEs=\""
+          "Value": "\"vJxklVYfpsnAGeHEw8lDZCNXnCNkjl1zHmi4pHb91Cc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 22 May 2025 21:43:46 GMT"
+          "Value": "Thu, 22 May 2025 21:50:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1680,13 +1817,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-r3kpvOF5Z+LOn335/6PUjQayFMWaf/inFewblV4CwEs="
+          "Value": "sha256-vJxklVYfpsnAGeHEw8lDZCNXnCNkjl1zHmi4pHb91Cc="
         }
       ]
     },
     {
-      "Route": "menu.json.gz",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\riq682ferm-h8mjzrwpud.gz",
+      "Route": "menu-test.json.gz",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\w06372nije-s6loio7rbq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1695,7 +1832,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3220"
+          "Value": "3234"
         },
         {
           "Name": "Content-Type",
@@ -1703,11 +1840,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fHaJRQdWqYxC4VfVY38EZrPqDEjalvk5EbH4aInzxr4=\""
+          "Value": "\"teT7WvfHORhzKYgIdtuhtQKg/25MUdj26djFEQNG2qQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 22 May 2025 21:43:46 GMT"
+          "Value": "Thu, 22 May 2025 21:50:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1725,18 +1862,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fHaJRQdWqYxC4VfVY38EZrPqDEjalvk5EbH4aInzxr4="
+          "Value": "sha256-teT7WvfHORhzKYgIdtuhtQKg/25MUdj26djFEQNG2qQ="
         }
       ]
     },
     {
-      "Route": "menu-test.0wp9frisyg.json",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\w06372nije-0wp9frisyg.gz",
+      "Route": "menu-test.s6loio7rbq.json",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\w06372nije-s6loio7rbq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000315556958"
+          "Quality": "0.000309119011"
         }
       ],
       "ResponseHeaders": [
@@ -1746,15 +1883,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3168"
+          "Value": "3234"
         },
         {
           "Name": "ETag",
-          "Value": "\"lGyDsc9VpMeEM5qwFl42STIXj7K+lR8j/xHugnT0BhQ=\""
+          "Value": "\"teT7WvfHORhzKYgIdtuhtQKg/25MUdj26djFEQNG2qQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 22 May 2025 21:43:52 GMT"
+          "Value": "Thu, 22 May 2025 21:50:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1774,13 +1911,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"UMYGme3TjxJwHvkYpvDTKa86I6CoHf7+nSlVrsHBD8I=\""
+          "Value": "W/\"vJxklVYfpsnAGeHEw8lDZCNXnCNkjl1zHmi4pHb91Cc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0wp9frisyg"
+          "Value": "s6loio7rbq"
         },
         {
           "Name": "label",
@@ -1788,13 +1925,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UMYGme3TjxJwHvkYpvDTKa86I6CoHf7+nSlVrsHBD8I="
+          "Value": "sha256-vJxklVYfpsnAGeHEw8lDZCNXnCNkjl1zHmi4pHb91Cc="
         }
       ]
     },
     {
-      "Route": "menu-test.0wp9frisyg.json",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu-test.json",
+      "Route": "menu-test.s6loio7rbq.json",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\menu-test.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1803,7 +1940,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17361"
+          "Value": "23358"
         },
         {
           "Name": "Content-Type",
@@ -1811,11 +1948,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UMYGme3TjxJwHvkYpvDTKa86I6CoHf7+nSlVrsHBD8I=\""
+          "Value": "\"vJxklVYfpsnAGeHEw8lDZCNXnCNkjl1zHmi4pHb91Cc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 22 May 2025 21:43:52 GMT"
+          "Value": "Thu, 22 May 2025 21:50:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1825,7 +1962,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0wp9frisyg"
+          "Value": "s6loio7rbq"
         },
         {
           "Name": "label",
@@ -1833,13 +1970,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UMYGme3TjxJwHvkYpvDTKa86I6CoHf7+nSlVrsHBD8I="
+          "Value": "sha256-vJxklVYfpsnAGeHEw8lDZCNXnCNkjl1zHmi4pHb91Cc="
         }
       ]
     },
     {
-      "Route": "menu-test.0wp9frisyg.json.gz",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\w06372nije-0wp9frisyg.gz",
+      "Route": "menu-test.s6loio7rbq.json.gz",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\compressed\\w06372nije-s6loio7rbq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1848,7 +1985,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3168"
+          "Value": "3234"
         },
         {
           "Name": "Content-Type",
@@ -1856,11 +1993,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lGyDsc9VpMeEM5qwFl42STIXj7K+lR8j/xHugnT0BhQ=\""
+          "Value": "\"teT7WvfHORhzKYgIdtuhtQKg/25MUdj26djFEQNG2qQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 22 May 2025 21:43:52 GMT"
+          "Value": "Thu, 22 May 2025 21:50:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1878,7 +2015,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0wp9frisyg"
+          "Value": "s6loio7rbq"
         },
         {
           "Name": "label",
@@ -1886,144 +2023,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lGyDsc9VpMeEM5qwFl42STIXj7K+lR8j/xHugnT0BhQ="
-        }
-      ]
-    },
-    {
-      "Route": "menu-test.json",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\w06372nije-0wp9frisyg.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000315556958"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3168"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lGyDsc9VpMeEM5qwFl42STIXj7K+lR8j/xHugnT0BhQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 22 May 2025 21:43:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"UMYGme3TjxJwHvkYpvDTKa86I6CoHf7+nSlVrsHBD8I=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UMYGme3TjxJwHvkYpvDTKa86I6CoHf7+nSlVrsHBD8I="
-        }
-      ]
-    },
-    {
-      "Route": "menu-test.json",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu-test.json",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17361"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UMYGme3TjxJwHvkYpvDTKa86I6CoHf7+nSlVrsHBD8I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 22 May 2025 21:43:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UMYGme3TjxJwHvkYpvDTKa86I6CoHf7+nSlVrsHBD8I="
-        }
-      ]
-    },
-    {
-      "Route": "menu-test.json.gz",
-      "AssetFile": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\compressed\\w06372nije-0wp9frisyg.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3168"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lGyDsc9VpMeEM5qwFl42STIXj7K+lR8j/xHugnT0BhQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 22 May 2025 21:43:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-lGyDsc9VpMeEM5qwFl42STIXj7K+lR8j/xHugnT0BhQ="
+          "Value": "sha256-teT7WvfHORhzKYgIdtuhtQKg/25MUdj26djFEQNG2qQ="
         }
       ]
     }

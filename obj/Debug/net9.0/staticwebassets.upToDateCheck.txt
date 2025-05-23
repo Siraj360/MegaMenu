@@ -1,6 +1,6 @@
-C:\Users\Siraj\Documents\App-2024\Blog\MegaMenuPART1\wwwroot\app.css
-C:\Users\Siraj\Documents\App-2024\Blog\MegaMenuPART1\wwwroot\menu.json
-C:\Users\Siraj\Documents\App-2024\Blog\MegaMenuPART1\wwwroot\menu-test.json
+C:\Users\Siraj\source\repos-git\MegaMenu\wwwroot\app.css
+C:\Users\Siraj\source\repos-git\MegaMenu\wwwroot\menu.json
+C:\Users\Siraj\source\repos-git\MegaMenu\wwwroot\menu-test.json
 wwwroot\app.css
 wwwroot\img\about-us.png
 wwwroot\img\avtar.png

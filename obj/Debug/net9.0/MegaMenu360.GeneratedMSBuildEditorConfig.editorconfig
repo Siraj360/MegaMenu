@@ -9,49 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MegaMenu360
 build_property.RootNamespace = MegaMenu360
-build_property.ProjectDir = C:\Users\Siraj\Documents\App-2024\Blog\MegaMenuPART1\
+build_property.ProjectDir = C:\Users\Siraj\source\repos-git\MegaMenu\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Siraj\Documents\App-2024\Blog\MegaMenuPART1
+build_property.MSBuildProjectDirectory = C:\Users\Siraj\source\repos-git\MegaMenu
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Siraj/Documents/App-2024/Blog/MegaMenuPART1/Components/App.razor]
+[C:/Users/Siraj/source/repos-git/MegaMenu/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Siraj/Documents/App-2024/Blog/MegaMenuPART1/Components/Layout/MegaMenuTest.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWVnYU1lbnVUZXN0LnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Siraj/Documents/App-2024/Blog/MegaMenuPART1/Components/Layout/NavMegaMenu360.razor]
+[C:/Users/Siraj/source/repos-git/MegaMenu/Components/Layout/NavMegaMenu360.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVnYU1lbnUzNjAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Siraj/Documents/App-2024/Blog/MegaMenuPART1/Components/Pages/About.razor]
+[C:/Users/Siraj/source/repos-git/MegaMenu/Components/Pages/About.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBYm91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Siraj/Documents/App-2024/Blog/MegaMenuPART1/Components/Pages/Error.razor]
+[C:/Users/Siraj/source/repos-git/MegaMenu/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Siraj/Documents/App-2024/Blog/MegaMenuPART1/Components/Pages/Home.razor]
+[C:/Users/Siraj/source/repos-git/MegaMenu/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Siraj/Documents/App-2024/Blog/MegaMenuPART1/Components/Routes.razor]
+[C:/Users/Siraj/source/repos-git/MegaMenu/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Siraj/Documents/App-2024/Blog/MegaMenuPART1/Components/_Imports.razor]
+[C:/Users/Siraj/source/repos-git/MegaMenu/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Siraj/Documents/App-2024/Blog/MegaMenuPART1/Components/Layout/MainLayout.razor]
+[C:/Users/Siraj/source/repos-git/MegaMenu/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-ncaz8rhj9l

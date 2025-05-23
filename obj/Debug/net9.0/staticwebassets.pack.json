@@ -1,31 +1,31 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MegaMenu360.bundle.scp.css",
+      "Id": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MegaMenu360.bundle.scp.css",
       "PackagePath": "staticwebassets\\MegaMenu360.ehdhxkme5y.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\app.css",
+      "Id": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\about-us.png",
+      "Id": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\img\\about-us.png",
       "PackagePath": "staticwebassets\\img\\about-us.png"
     },
     {
-      "Id": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\avtar.png",
+      "Id": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\img\\avtar.png",
       "PackagePath": "staticwebassets\\img\\avtar.png"
     },
     {
-      "Id": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\img\\product.png",
+      "Id": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\img\\product.png",
       "PackagePath": "staticwebassets\\img\\product.png"
     },
     {
-      "Id": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu-test.json",
+      "Id": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\menu-test.json",
       "PackagePath": "staticwebassets\\menu-test.json"
     },
     {
-      "Id": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\wwwroot\\menu.json",
+      "Id": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\menu.json",
       "PackagePath": "staticwebassets\\menu.json"
     },
     {

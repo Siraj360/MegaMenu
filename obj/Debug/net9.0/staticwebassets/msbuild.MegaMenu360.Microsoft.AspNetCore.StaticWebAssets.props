@@ -102,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>h8mjzrwpud</Fingerprint>
-      <Integrity>r3kpvOF5Z+LOn335/6PUjQayFMWaf/inFewblV4CwEs=</Integrity>
+      <Fingerprint>p2eeg17qor</Fingerprint>
+      <Integrity>weKersYKTNAtrTznprtG4iUY79NAVnXiRdpPQuWflKA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\menu.json'))</OriginalItemSpec>
@@ -120,8 +120,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0wp9frisyg</Fingerprint>
-      <Integrity>UMYGme3TjxJwHvkYpvDTKa86I6CoHf7+nSlVrsHBD8I=</Integrity>
+      <Fingerprint>s6loio7rbq</Fingerprint>
+      <Integrity>vJxklVYfpsnAGeHEw8lDZCNXnCNkjl1zHmi4pHb91Cc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\menu-test.json'))</OriginalItemSpec>

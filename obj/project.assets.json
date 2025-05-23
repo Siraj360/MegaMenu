@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\MegaMenu360.csproj",
+      "projectUniqueName": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\MegaMenu360.csproj",
       "projectName": "MegaMenu360",
-      "projectPath": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\MegaMenu360.csproj",
+      "projectPath": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\MegaMenu360.csproj",
       "packagesPath": "C:\\Users\\Siraj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Siraj\\Documents\\App-2024\\Blog\\MegaMenuPART1\\obj\\",
+      "outputPath": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

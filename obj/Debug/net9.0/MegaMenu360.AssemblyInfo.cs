@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MegaMenu360")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c90acfd2cfba8e56c9aa4c45c5058dd1f67b6e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("MegaMenu360")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MegaMenu360")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
