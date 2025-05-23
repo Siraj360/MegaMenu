@@ -14,14 +14,14 @@ In this project, we build a dynamic, data-driven Mega Menu in a Blazor Server ap
 
 [Building a Mega Menu and Menu Builder UI in Blazor Server (.NET 9)](https://medium.com/@sirajg360/building-a-mega-menu-and-menu-builder-ui-in-blazor-server-net-9-5dc39e718cdc)
 
+
+
 ## 🎯 Goals
 
 - ✅ Create a dynamic Mega Menu using a JSON data structure.
 - ✅ Style it with Bootstrap and Font Awesome.
 - ✅ Define menu structure with C# POCO models and load JSON in Blazor.
 - 🚧 Prepare for a future visual Menu Builder UI with real-time editing.
-
----
 
 ## 🔧 Technologies Used
 
@@ -31,7 +31,6 @@ In this project, we build a dynamic, data-driven Mega Menu in a Blazor Server ap
 - **C# POCO classes**
 - **JSON** data format for menus
 
----
 
 ## 📁 Step 1: Define POCO Classes for Menu Structure
 
@@ -64,7 +63,6 @@ public class MegaMenuItem
 }
 ```
 
----
 
 ## 📄 Step 2: Sample JSON Menu Data
 
@@ -99,7 +97,6 @@ public class MegaMenuItem
 ]
 ```
 
----
 
 ## 🔁 Step 3: Loading JSON in Blazor Component (`NavMegaMenu360.razor`)
 
@@ -126,7 +123,6 @@ public class MegaMenuItem
 }
 ```
 
----
 
 ## 🧱 Step 4: Mega Menu UI Component Markup
 
@@ -172,7 +168,6 @@ public class MegaMenuItem
 </ul>
 ```
 
----
 
 ## 🎨 Embedded CSS Styling
 
