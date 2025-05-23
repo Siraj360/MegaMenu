@@ -10,6 +10,10 @@ In this project, we build a dynamic, data-driven Mega Menu in a Blazor Server ap
 
 ---
 
+### A bolg on theis project
+
+[Building a Mega Menu and Menu Builder UI in Blazor Server (.NET 9)](https://medium.com/@sirajg360/building-a-mega-menu-and-menu-builder-ui-in-blazor-server-net-9-5dc39e718cdc)
+
 ## 🎯 Goals
 
 - ✅ Create a dynamic Mega Menu using a JSON data structure.
