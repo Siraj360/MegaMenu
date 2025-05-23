@@ -4,7 +4,7 @@
 In this project, we build a dynamic, data-driven Mega Menu in a Blazor Server app using .NET 9, Bootstrap 5, and Font Awesome 6. This README walks through the core concepts, code snippets, and setup steps.
 
 
-## 💡 The end result:
+## The end result:
 
 ![Mega Menu Screenshot](https://github.com/Siraj360/MegaMenu/blob/main/wwwroot/img/Screen.gif)
 
