@@ -31,6 +31,7 @@ In this project, we build a dynamic, data-driven Mega Menu in a Blazor Server ap
 - **C# POCO classes**
 - **JSON** data format for menus
 
+---
 
 ## 📁 Step 1: Define POCO Classes for Menu Structure
 
