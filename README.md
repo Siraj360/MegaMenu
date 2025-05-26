@@ -14,7 +14,7 @@ In this project, we build a dynamic, data-driven Mega Menu in a Blazor Server ap
 
 [Building a Mega Menu and Menu Builder UI in Blazor Server (.NET 9)](https://medium.com/@sirajg360/building-a-mega-menu-and-menu-builder-ui-in-blazor-server-net-9-5dc39e718cdc)
 
-
+---
 
 ## 🎯 Goals
 
@@ -210,6 +210,9 @@ public class MegaMenuItem
 - CSS hover dropdown for a smooth UI experience
 - Font Awesome integrated for iconography
 - Base ready for future visual menu builder enhancements
+
+#### Final Note:
+This mega menu component is versatile — it can also function as a simple, traditional dropdown menu. To achieve this, just include one group per TopLink. When configured this way, the menu renders in a single-column layout, resembling a standard dropdown menu rather than a multi-column mega menu.
 
 ---
 
