@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\app.css"
     },
     {
+      "Id": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\img\\Screen.gif",
+      "PackagePath": "staticwebassets\\img\\Screen.gif"
+    },
+    {
       "Id": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\img\\about-us.png",
       "PackagePath": "staticwebassets\\img\\about-us.png"
     },

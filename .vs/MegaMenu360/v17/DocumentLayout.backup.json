@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBAE34AE-4C94-4E76-A630-B31ECC7E077E}|MegaMenu360.csproj|c:\\users\\siraj\\source\\repos-git\\megamenu\\readme.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{BBAE34AE-4C94-4E76-A630-B31ECC7E077E}|MegaMenu360.csproj|solutionrelative:readme.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BBAE34AE-4C94-4E76-A630-B31ECC7E077E}|MegaMenu360.csproj|c:\\users\\siraj\\source\\repos-git\\megamenu\\components\\layout\\navmegamenu360.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BBAE34AE-4C94-4E76-A630-B31ECC7E077E}|MegaMenu360.csproj|solutionrelative:components\\layout\\navmegamenu360.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBAE34AE-4C94-4E76-A630-B31ECC7E077E}|MegaMenu360.csproj|c:\\users\\siraj\\source\\repos-git\\megamenu\\wwwroot\\menu-test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BBAE34AE-4C94-4E76-A630-B31ECC7E077E}|MegaMenu360.csproj|solutionrelative:wwwroot\\menu-test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBAE34AE-4C94-4E76-A630-B31ECC7E077E}|MegaMenu360.csproj|c:\\users\\siraj\\source\\repos-git\\megamenu\\wwwroot\\menu.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BBAE34AE-4C94-4E76-A630-B31ECC7E077E}|MegaMenu360.csproj|solutionrelative:wwwroot\\menu.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BBAE34AE-4C94-4E76-A630-B31ECC7E077E}|MegaMenu360.csproj|c:\\users\\siraj\\source\\repos-git\\megamenu\\readme.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{BBAE34AE-4C94-4E76-A630-B31ECC7E077E}|MegaMenu360.csproj|solutionrelative:readme.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,66 +18,32 @@
       "DocumentGroups": [
         {
           "DockedHeight": 464,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAM8AAAAAAAAAAADwv+IAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-05-22T23:24:06.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "menu-test.json",
-              "DocumentMoniker": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\menu-test.json",
-              "RelativeDocumentMoniker": "wwwroot\\menu-test.json",
-              "ToolTip": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\menu-test.json",
-              "RelativeToolTip": "wwwroot\\menu-test.json",
-              "ViewState": "AgIAACACAAAAAAAAAAAcwDMCAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-22T21:27:30.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "menu.json",
-              "DocumentMoniker": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\menu.json",
-              "RelativeDocumentMoniker": "wwwroot\\menu.json",
-              "ToolTip": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\menu.json",
-              "RelativeToolTip": "wwwroot\\menu.json",
-              "ViewState": "AgIAACACAAAAAAAAAAAcwDYCAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-22T21:03:45.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "NavMegaMenu360.razor",
               "DocumentMoniker": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\Components\\Layout\\NavMegaMenu360.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMegaMenu360.razor",
               "ToolTip": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\Components\\Layout\\NavMegaMenu360.razor",
               "RelativeToolTip": "Components\\Layout\\NavMegaMenu360.razor",
-              "ViewState": "AgIAALwAAAAAAAAAAAAMwMAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAYwM4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-22T20:24:30.547Z",
+              "WhenOpened": "2025-05-23T22:26:41.494Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-23T16:07:55.411Z"
             }
           ]
         },
@@ -95,7 +53,11 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:1:0:{90243340-bd7a-11d0-93ef-00a0c90f2734}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             }
           ]
         },
@@ -109,11 +71,19 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f2e84780-2af1-11d1-a7fa-00a0c9110051}"
             }
           ]
         },
@@ -123,7 +93,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "Name": "ST:0:0:{0504ff91-9d61-11d0-a794-00a0c9110051}"
             }
           ]
         }

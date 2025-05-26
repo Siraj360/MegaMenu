@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/PgCG7wq77psNsiC1qTE5F+kRr8r9GCWefJH22WJWFo=",
+  "Hash": "hhEHCIWulyHcFPzlLMvaFQdf13lNjd/jo588J6KOBoI=",
   "Source": "MegaMenu360",
   "BasePath": "_content/MegaMenu360",
   "Mode": "Default",
@@ -246,6 +246,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\product.png"
+    },
+    {
+      "Identity": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\img\\Screen.gif",
+      "SourceId": "MegaMenu360",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\",
+      "BasePath": "_content/MegaMenu360",
+      "RelativePath": "img/Screen#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z22kvy3nzh",
+      "Integrity": "dYHh435QPByK/KXtovxMp5v5PhmvHERggmMAEj8v0uc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Screen.gif"
     },
     {
       "Identity": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\menu.json",
@@ -832,6 +853,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-FkHpqhWaZlHDpMKpZuDFFa0QhR8ShKOefTyMxfvwZXQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/Screen.gif",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\img\\Screen.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119994"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dYHh435QPByK/KXtovxMp5v5PhmvHERggmMAEj8v0uc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 23:20:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dYHh435QPByK/KXtovxMp5v5PhmvHERggmMAEj8v0uc="
+        }
+      ]
+    },
+    {
+      "Route": "img/Screen.z22kvy3nzh.gif",
+      "AssetFile": "C:\\Users\\Siraj\\source\\repos-git\\MegaMenu\\wwwroot\\img\\Screen.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119994"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dYHh435QPByK/KXtovxMp5v5PhmvHERggmMAEj8v0uc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 23:20:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z22kvy3nzh"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Screen.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dYHh435QPByK/KXtovxMp5v5PhmvHERggmMAEj8v0uc="
         }
       ]
     },
