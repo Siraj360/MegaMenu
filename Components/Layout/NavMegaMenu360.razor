@@ -3,6 +3,7 @@
 @inject NavigationManager NavManager
 
 
+
 <nav class="navbar navbar-expand fixed-top bg-navbar border-bottom shadow ps-3 pe-2 text-dark">
     <div class="container-fluid">
         <a class="navbar-brand fs-3 lh-1 text-light" href="#">
@@ -225,7 +226,14 @@
     {
         try
         {
-            MenuLinks = await Http.GetFromJsonAsync<List<MegaMenuTopLink>>("https://localhost:7000/data/menu.json");
+            // Build the full URL dynamically
+            string baseUri = NavManager.BaseUri; // e.g., "https://localhost:7000/"
+            string jsonPath = "menu.json";
+            string fullUrl = $"{baseUri}{jsonPath}";
+
+            MenuLinks = await Http.GetFromJsonAsync<List<MegaMenuTopLink>>(fullUrl);
+
+            // MenuLinks = await Http.GetFromJsonAsync<List<MegaMenuTopLink>>("https:localhost:7000/data/menu.json");
         }
         catch (Exception ex)
         {
