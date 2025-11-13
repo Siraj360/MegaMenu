@@ -1,0 +1,17 @@
+﻿## Visual Studio
+.vs/
+bin/
+obj/
+TestResults/
+*.user
+*.suo
+*.cache
+*.log
+*.tmp
+
+## Node / Angular / Web assets
+node_modules/
+dist/
+wwwroot/lib/
+npm-debug.log*
+yarn-error.log*
